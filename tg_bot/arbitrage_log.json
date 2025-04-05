@@ -1,0 +1,4 @@
+{"timestamp": "2025-03-12T21:32:53.356199", "data": {"market": "LINK/USDT", "buy_exchange": "binance", "sell_exchange": "okex", "buy_price": 13.19, "sell_price": 13.33, "profit_percent": 1.06}}
+{"timestamp": "2025-03-12T21:32:53.356199", "data": {"market": "LINK/USDT", "buy_exchange": "binance", "sell_exchange": "bitget", "buy_price": 13.19, "sell_price": 13.33, "profit_percent": 1.06}}
+{"timestamp": "2025-03-12T21:32:53.356199", "data": {"market": "MOVE/USDT", "buy_exchange": "binance", "sell_exchange": "okex", "buy_price": 0.4603, "sell_price": 0.46621, "profit_percent": 1.28}}
+{"timestamp": "2025-03-12T21:32:53.356199", "data": {"market": "MOVE/USDT", "buy_exchange": "binance", "sell_exchange": "bitget", "buy_price": 0.4603, "sell_price": 0.4666, "profit_percent": 1.37}}

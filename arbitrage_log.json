@@ -1,0 +1,9 @@
+{"timestamp": "2025-03-12T19:45:43.820314", "data": {"market": "HBAR/USDT", "buy_exchange": "okex", "sell_exchange": "binance", "buy_price": 0.1987, "sell_price": 0.2008, "profit_percent": 1.06}}
+{"timestamp": "2025-03-12T19:45:43.820314", "data": {"market": "HBAR/USDT", "buy_exchange": "bitget", "sell_exchange": "binance", "buy_price": 0.1983, "sell_price": 0.2008, "profit_percent": 1.26}}
+{"timestamp": "2025-03-12T19:45:43.820314", "data": {"market": "KAITO/USDT", "buy_exchange": "bitget", "sell_exchange": "binance", "buy_price": 1.3367, "sell_price": 1.3506, "profit_percent": 1.04}}
+{"timestamp": "2025-03-12T19:46:45.002233", "data": {"market": "HBAR/USDT", "buy_exchange": "okex", "sell_exchange": "binance", "buy_price": 0.1987, "sell_price": 0.2008, "profit_percent": 1.06}}
+{"timestamp": "2025-03-12T19:49:36.505213", "data": {"market": "HBAR/USDT", "buy_exchange": "okex", "sell_exchange": "binance", "buy_price": 0.1987, "sell_price": 0.2008, "profit_percent": 1.06}}
+{"timestamp": "2025-03-12T19:49:36.505213", "data": {"market": "HBAR/USDT", "buy_exchange": "bitget", "sell_exchange": "binance", "buy_price": 0.1983, "sell_price": 0.2008, "profit_percent": 1.26}}
+{"timestamp": "2025-03-12T19:49:36.505213", "data": {"market": "KAITO/USDT", "buy_exchange": "bitget", "sell_exchange": "binance", "buy_price": 1.3367, "sell_price": 1.3506, "profit_percent": 1.04}}
+{"timestamp": "2025-03-12T19:50:37.884038", "data": {"market": "HBAR/USDT", "buy_exchange": "okex", "sell_exchange": "binance", "buy_price": 0.1987, "sell_price": 0.2008, "profit_percent": 1.06}}
+{"timestamp": "2025-03-12T19:54:07.336193", "data": {"market": "RED/USDT", "buy_exchange": "binance", "sell_exchange": "bybit_spot", "buy_price": 0.6359, "sell_price": 0.6504, "profit_percent": 2.28}}
